@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MCU</string>
-    <string name="welcome">Welcome !</string>
+    <string name="welcome">مرحبا !</string>
     <string name="todo">TODO</string>
     <string name="splash_logo">splashlogo</string>
     <string name="to">to</string>
@@ -26,7 +26,7 @@
     <string name="e_mail">البريد الالكتروني</string>
     <string name="phone_number">رقم الموبيل</string>
     <string name="already_have_an_account_login">لدي بالفعل حساب؟ تسجيل دخول</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
     <string name="fragment_dashboard">Fragment Dashboard</string>
     <string name="home">الرئيسية</string>
     <string name="cost">التكلفه</string>
