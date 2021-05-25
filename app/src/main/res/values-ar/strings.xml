@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">MCU</string>
-    <string name="welcome">Welcome !</string>
+    <string name="welcome">مرحبا !</string>
     <string name="todo">TODO</string>
-    <string name="splash_logo">splashlogo</string>
+    <string name="splash_logo">Splash</string>
     <string name="to">to</string>
     <string name="multiple_choice_user">Multiple choice user</string>
     <string name="mostafa">mostafa</string>
