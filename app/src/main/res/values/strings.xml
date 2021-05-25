@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MCU</string>
+    <string name="welcome">Welcome !</string>
+    <string name="todo">TODO</string>
+    <string name="splash_logo">splashlogo</string>
+    <string name="to">to</string>
+    <string name="multiple_choice_user">Multiple choice user</string>
+    <string name="mostafa">mostafa</string>
+    <string name="welcome_back">Welcome Back ,</string>
+    <string name="sign_in_to_continue">Sign In to continue</string>
+    <string name="username">Username</string>
+
+    <string name="login">Login</string>
+    <string name="forget_password">forget password?</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="sign_up2">SIGN UP</string>
+    <string name="email_password">Email_Password</string>
+    <string name="password_updated">Password Updated</string>
+    <string name="your_password_has_been_updated">Your password has been updated!</string>
+    <string name="provide_your_account_s_email_for_which_you_want_to_reset_your_password">Provide your account\'s email for which you want to reset your password</string>
+    <string name="e_mail_or_phone_number">E-mail or phone number</string>
+    <string name="send">Send</string>
+    <string name="activation_code">Activation Code</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone_number">Phone number</string>
+    <string name="already_have_an_account_login">Already have an account? login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_dashboard">Fragment Dashboard</string>
+    <string name="home">Home</string>
+    <string name="cost">Cost</string>
+    <string name="setting">Setting</string>
+    <string name="dark">Dark</string>
+    <string name="order_number">Order Number</string>
+    <string name="fingerprint_lock">Fingerprint lock</string>
+    <string name="notifications">Notifications</string>
+    <string name="language">language</string>
+    <string name="choose_language">Choose language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="remember_me">Remember me</string>
+    <string name="create_a_new_password">Create a new password</string>
+    <string name="your_identity_has_been_verified_set_your_new_password">your identity has been verified set your new password</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+    <string name="w_e_l_c_o_m_e">w e l c o m e</string>
+    <string name="sign_up_to_control_your_wi_fi">Sign Up to control your wi_fi</string>
+    <string name="profile">Profile</string>
+    <string name="costting">Costting</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="price_per_hour">Price Per Hour</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="time_left">Time left</string>
+    <string name="time">Time</string>
+    <string name="speed">Speed</string>
+    <string name="control">Control</string>
+    <string name="new_password">New Password</string>
+    <string name="add_user">Add User</string>
+    <string name="hello">Hello,</string>
+    <string name="themes">Dark mode</string>
+
+
+</resources>

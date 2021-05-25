@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e_mail_or_phone_number">E-mail or phone number</string>
+    <string name="send">send</string>
+    <string name="activation_code">activation code</string>
+    <string name="ok">OK</string>
+    <string name="dark">Dark</string>
+    <string name="order_number">Order Number</string>
+    <string name="fingerprint_lock">fingerprint lock</string>
+    <string name="notifications">notifications</string>
+    <string name="language">language</string>
+</resources>
